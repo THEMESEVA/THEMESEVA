@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themeseva&label=Profile%20views&color=0e75b6&style=flat" alt="themeseva" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themeseva" alt="themeseva" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rahulpanda93007" target="blank"><img src="https://img.shields.io/twitter/follow/rahulpanda93007?logo=twitter&style=for-the-badge" alt="rahulpanda93007" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://themeseva.shop/rahulpanda/](https://themeseva.shop/rahulpanda/)
@@ -21,7 +19,7 @@
 <a href="https://twitter.com/rahulpanda93007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulpanda93007" height="30" width="40" /></a>
 <a href="https://fb.com/rahulpanda225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulpanda225" height="30" width="40" /></a>
 <a href="https://instagram.com/rahulpanda.52206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulpanda.52206" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@rpmoney249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rpmoney249" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@rpmoney249?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@rpmoney249?sub_confirmation=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
