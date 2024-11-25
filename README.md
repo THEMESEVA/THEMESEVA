@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themeseva&label=Profile%20views&color=0e75b6&style=flat" alt="themeseva" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rahulpanda93007" target="blank"><img src="https://img.shields.io/twitter/follow/rahulpanda93007?logo=twitter&style=for-the-badge" alt="rahulpanda93007" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://themeseva.shop/rahulpanda/](https://themeseva.shop/rahulpanda/)
 
 - 💬 Ask me about **C++,DSA,HTML,CSS,JAVASCRIPT**
